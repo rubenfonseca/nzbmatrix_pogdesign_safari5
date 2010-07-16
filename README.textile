@@ -1,0 +1,7 @@
+h1. Safari 5 extension
+
+Adds nzbmatrix (http://nzbmatrix.com) download icons to pogdesign tv series calendar (http://www.pogdesign.co.uk/cat/index.php).
+
+This is my first Safari 5 extension, and a direct port of my "previous greasemonkey userscript":http://userscripts.org/scripts/show/62189
+
+!http://0x82.blog.s3.amazonaws.com/10012010/pogdesign_chrome.png!
